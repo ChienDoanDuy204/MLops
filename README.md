@@ -42,6 +42,13 @@ or
 step bonus
 # change directory
 > cd name_dir
-# to check list directory in partition of drive
+# to display list directory in partition of drive
 > dir
+```
+
+
+```shell
+To join jupyter notebook
+> open Anaconda PowerShell Prompt
+> jupyter notebook
 ```
