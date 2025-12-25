@@ -47,6 +47,17 @@ step bonus
 ```
 
 
+```
+# To download and use Docker:
+First - download WSL2 at: https://learn.microsoft.com/en-us/windows/wsl/install
+Second - download Docker desktop at: https://www.docker.com
+To create container:
+1. write Dockerfile -> build Docker Image -> run DockerImage become Docker container
+2. use Docker Compose: write Dockerfile -> write docker-compose.yml
+use terminal:
+> docker compose up
+```
+
 ```shell
 To join jupyter notebook
 > open Anaconda PowerShell Prompt
