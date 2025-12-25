@@ -46,6 +46,11 @@ step bonus
 > dir
 ```
 
+```shell
+To join jupyter notebook
+> open Anaconda PowerShell Prompt
+> jupyter notebook
+```
 
 ```
 # To download and use Docker:
@@ -56,10 +61,4 @@ To create container:
 2. use Docker Compose: write Dockerfile -> write docker-compose.yml
 use terminal:
 > docker compose up
-```
-
-```shell
-To join jupyter notebook
-> open Anaconda PowerShell Prompt
-> jupyter notebook
 ```
