@@ -5,7 +5,7 @@ Open Anaconda PowerShell Prompt
 # check version python in computer local
 > python --version
 # create environment with Anaconda PowerShell Prompt
-> conda create -n env_name python=version
+> conda create -n env_name python=version ( Suggest version 3.11 or 3.10 )
 ```
 
 ```shell
